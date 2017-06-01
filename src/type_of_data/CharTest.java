@@ -1,7 +1,9 @@
+package type_of_data;
+
 /**
  * Created by fff on 17-6-1.
  */
-public class Character {
+public class CharTest {
     public static void main(String[] args){
 
         //直接指定单个字符作为字符值。
