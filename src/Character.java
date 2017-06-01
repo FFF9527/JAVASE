@@ -22,5 +22,8 @@ public class Character {
         //直接将一个char变量当成int类型变量
         char c = 97;
         System.out.println(c);
+
+        //下面代码定义了一个s变量，它是一个字符串实例的引用，它是一个引用类型的变量
+        String s = "沧海月明珠有泪，蓝田玉暖日生烟.";
     }
 }
