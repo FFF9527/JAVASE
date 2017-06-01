@@ -4,7 +4,8 @@ package type_of_data;
  * Created by fff on 17-6-1.
  */
 public class FloatTest {
-    public static void main(String[] args){
+    public static void main(String[] args)
+    {
         float af = 5.2345556f;
         //下面将看到af的值已经发生了改变
 
