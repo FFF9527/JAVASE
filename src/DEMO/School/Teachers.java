@@ -1,4 +1,4 @@
-package School;
+package DEMO.School;
 
 /**
  * Created by fff on 17-6-2.
